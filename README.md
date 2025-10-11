@@ -9,4 +9,4 @@ Przewodnik dostępny jest na [stronie](https://inkes7.github.io/projekt/)
 # Technologie 
 - html, css, javascript, git ,github
 
-Chcesz pomóc? Super! Zobacz zasady dotyczące współpracy w [CONTRIBUTING.md].(CONTRIBUTING.md).
+Chcesz pomóc? Super! Zobacz zasady dotyczące współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
